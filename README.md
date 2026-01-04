@@ -12,7 +12,7 @@
 #### 1. [Universitas Jember](https://unej.ac.id/program-pascasarjana/) | Magister of Mathematics Education | Jember `2023-2025`
    - Tutor of Mathematics
  
- #### 2. [Universitas Muhammadiyah Jember](https://math.unmuhjember.ac.id/?m=1) | MIPA | Jember `2019-2023`
+ #### 2. [Universitas Muhammadiyah Jember](https://math.unmuhjember.ac.id/?m=1) | Bachelor of Mathematics Education | Jember `2019-2023`
    - BEM FKIP Universitas Muhammadiyah Jember
    - Himpunan Mahasiswa Pendidikan Matematika Universitas Jember
      
@@ -26,13 +26,11 @@
 
 ### Languages and Tools:
 
-[![Excel](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Excel_2013-2019_logo.svg)](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
-[![Word](https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Office_Word_2013-2019_logo.svg)](https://www.microsoft.com/en-us/microsoft-365/word) &nbsp;&nbsp;
-[![PowerPoint](https://upload.wikimedia.org/wikipedia/commons/a/a1/Microsoft_Office_PowerPoint_2013-2019_logo.svg)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) &nbsp;&nbsp;
-[![Overleaf](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Overleaf_Logo_2021.svg/1024px-Overleaf_Logo_2021.svg.png)](https://www.overleaf.com) &nbsp;&nbsp;
+[![Excel](https://play-lh.googleusercontent.com/Wbq7u5yCFe9dqtZv1Gp3E1OefzPmNKoYRJ1m0J9hVyqfhxd9c-CC_mJZn3ZVl_mE-uTmeVN8CiRMQ6ZgC3MNb0o=w240-h480-rw)](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
+[![Word](https://play-lh.googleusercontent.com/FRNCqOBET5SQO_mtuKLb1f9Y9kVvU3wsQ9Hqni1S2jteiglIJLRdZ10XMe0VYb1gQJXM3OVa7uxxfny_wyOO-g=w240-h480-rw)](https://www.microsoft.com/en-us/microsoft-365/word) &nbsp;&nbsp;
+[![PowerPoint](https://play-lh.googleusercontent.com/6YGG38PZlwEnUFn9LJWFQ0-e5EHaGxMFCY6-CF-qbfYjwcZD7KEWhgXHs7MWD9DlFJBd0L3d5YkF-0n56m3t1A=w240-h480-rw)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) &nbsp;&nbsp;
 [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png)](https://www.python.org/) &nbsp;&nbsp;
-[![Google Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Google_Colab_logo_2021.svg/800px-Google_Colab_logo_2021.svg.png)](https://colab.research.google.com/) &nbsp;&nbsp;
-[![Canva](https://upload.wikimedia.org/wikipedia/commons/5/56/Canva_Logo.png)](https://www.canva.com/) &nbsp;&nbsp;
+[![Canva](https://play-lh.googleusercontent.com/YfHIehEcm7dXAtoFNuUcE15CsCHwlHcRMeEMY4U4m7QaNkuXTUD2V2yxeAbRSq_tHRA=s48-rw)](https://www.canva.com/) &nbsp;&nbsp;
 
 <br />
 <br />
@@ -40,11 +38,7 @@
 ---
 ### Connect with me:
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/a/a6/YouTube_icon.png)](https://www.youtube.com/@khusnulaggst3345#gh-light-mode-only)
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/a/a6/YouTube_icon.png)](https://www.youtube.com/@khusnulaggst3345#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/6/60/Telegram_logo_2022.svg)](https://t.me/KhusnulAgst#gh-light-mode-only)
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/6/60/Telegram_logo_2022.svg)](https://t.me/KhusnulAgst#gh-dark-mode-only)
+[![Telegram](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX////8/f+41Pd7sfFFmO0gius9le1zrfCuzvby9/2QvPMTh+srjewzkOwykOwMhuvV5frB2figxvW20vfq8v1np/A4kuzv9f3i7fxtqvDO4fmWwPRQne7L3/kAguqGt/Ld6/s4puGjAAAA/0lEQVR4AayRhQ5DMQhFeVKFls5d/v8rt9I1YRLfjcLBgT9oGKfZGOt8+EYRDaWcExmePnAhk1MX4ajZgpNW5qXKY0lT4lVnA1X7I3cNTdEkJYNY+25eiahn2S53u0p5L3DsiZn4cAQAgXQSOFFjxpx2AAGgmBp5FjhnqWd9beGOvRQKrOvjptaDCxcAOJHA8IJmbA2uMoVT0D4b5Ntlt8i0g+YQCD0wk0GDd7EHFmjF8H0V2kilO4oRBQZOndbefdgCatGqjIcBbtWkMzQFfT9qs3L59c4sDNVDlx8PxQmURlY/Ja55SusNU24Iz3f41P4041M2FvitEB4jPp0DAHyFFi4xND68AAAAAElFTkSuQmCC)](https://t.me/KhusnulAgst#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Threads](https://upload.wikimedia.org/wikipedia/commons/6/60/Threads_logo_2023.svg)](https://www.threads.net/@khusnulags#gh-light-mode-only)
 [![Threads](https://upload.wikimedia.org/wikipedia/commons/6/60/Threads_logo_2023.svg)](https://www.threads.net/@khusnulags#gh-dark-mode-only)
