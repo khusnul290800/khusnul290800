@@ -38,7 +38,11 @@
 ---
 ### Connect with me:
 
-[![Telegram](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX////8/f+41Pd7sfFFmO0gius9le1zrfCuzvby9/2QvPMTh+srjewzkOwykOwMhuvV5frB2figxvW20vfq8v1np/A4kuzv9f3i7fxtqvDO4fmWwPRQne7L3/kAguqGt/Ld6/s4puGjAAAA/0lEQVR4AayRhQ5DMQhFeVKFls5d/v8rt9I1YRLfjcLBgT9oGKfZGOt8+EYRDaWcExmePnAhk1MX4ajZgpNW5qXKY0lT4lVnA1X7I3cNTdEkJYNY+25eiahn2S53u0p5L3DsiZn4cAQAgXQSOFFjxpx2AAGgmBp5FjhnqWd9beGOvRQKrOvjptaDCxcAOJHA8IJmbA2uMoVT0D4b5Ntlt8i0g+YQCD0wk0GDd7EHFmjF8H0V2kilO4oRBQZOndbefdgCatGqjIcBbtWkMzQFfT9qs3L59c4sDNVDlx8PxQmURlY/Ja55SusNU24Iz3f41P4041M2FvitEB4jPp0DAHyFFi4xND68AAAAAElFTkSuQmCC)](https://t.me/KhusnulAgst#gh-dark-mode-only)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/a/a6/YouTube_icon.png)](https://www.youtube.com/@khusnulaggst3345#gh-light-mode-only)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/a/a6/YouTube_icon.png)](https://www.youtube.com/@khusnulaggst3345#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/6/60/Telegram_logo_2022.svg)](https://t.me/KhusnulAgst#gh-light-mode-only)
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/6/60/Telegram_logo_2022.svg)](https://t.me/KhusnulAgst#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Threads](https://upload.wikimedia.org/wikipedia/commons/6/60/Threads_logo_2023.svg)](https://www.threads.net/@khusnulags#gh-light-mode-only)
 [![Threads](https://upload.wikimedia.org/wikipedia/commons/6/60/Threads_logo_2023.svg)](https://www.threads.net/@khusnulags#gh-dark-mode-only)
